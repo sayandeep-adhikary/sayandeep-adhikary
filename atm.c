@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<unistd.h>
 int main(int argc, char const* argv[])
 {
     int card, lang, bal, amount, sel, pin1, pin2, pin;
@@ -16,7 +17,7 @@ int main(int argc, char const* argv[])
             printf("You have choosen English\n");
             break;
         case 4:
-            printf("You have choosen Hindi\n");
+            printf("You have choosen Bengali\n");
             break;
 
         default:
@@ -86,7 +87,9 @@ int main(int argc, char const* argv[])
         
         }
     scanf("%d", &pin);
-    printf("YOU HAVE ENTERED ****\nPlease wait...\n\n\nTRANSACTION SUCCESSFUL! TAKE YOUR CARD OUT.\n");
+    printf("YOU HAVE ENTERED ****\nPlease wait...\n\n\n");
+    sleep(3);
+    printf("TRANSACTION SUCCESSFUL! TAKE YOUR CARD OUT.\n");
     printf("Available balance = %d", 100000-amount);
     end:
         return 0;
