@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sayandeep-adhikary
 - 👀 I’m interested in ...only coding
 - 🌱 I’m currently learning ...C
-- 💞️ I’m looking to collaborate on ...projects using C language
+- 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me ..."sayandeepadhikary2003@gmail.com" my personal mail id
 
 <!---
