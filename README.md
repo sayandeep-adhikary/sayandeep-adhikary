@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayandeep Adhikary</h1>
 <h3 align="center">Pre-final year student of NSEC</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayandeep-adhikary&label=Profile%20views&color=0e75b6&style=flat" alt="sayandeep-adhikary" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sayandeep-adhikary&label=Profile%20views&color=0e75b6&style=flat" alt="sayandeep-adhikary" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayandeep-adhikary" alt="sayandeep-adhikary" /></a> </p>
 
