@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayandeep-adhikary&label=Profile%20views&color=0e75b6&style=flat" alt="sayandeep-adhikary" /> </p>
 
 
-- 🔭 I’m currently working on [Nike Brand Store](https://sayandeep-nikestore.netlify.app/)
-
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://sayandeep-portfolio-website.netlify.app/](https://sayandeep-portfolio-website.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://personal-portfolio-react-iota.vercel.app/)
 
 - 💬 Ask me about **C, C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB**
 
