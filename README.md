@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayandeep-adhikary&show_icons=true&locale=en" alt="sayandeep-adhikary" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayandeep-adhikary&" alt="sayandeep-adhikary" /></p>
+[![An image of @sayan2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayan2003)](https://holopin.io/@sayan2003)
