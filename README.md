@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://personal-portfolio-react-iota.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://sayandeepadhikary.vercel.app/)
 
 - 💬 Ask me about **C, C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB**
 
