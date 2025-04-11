@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayandeep Adhikary</h1>
-<h3 align="center">Pre-final year student of NSEC</h3>
+<h3 align="center">IT-NSEC'25</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayandeep-adhikary&label=Profile%20views&color=0e75b6&style=flat" alt="sayandeep-adhikary" /> </p>
 
