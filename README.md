@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 Checkout [my portfolio here](https://sayandeepadhikary.vercel.app/)
+- 👨‍💻 Checkout <a href="https://sayandeepadhikary.vercel.app/">my portfolio here <img src="https://github.com/user-attachments/assets/63232c02-d83c-4e7f-83a5-f463a8e32660" alt="image" width="16px"/></a>
+
 
 - 💬 Ask me about **C, C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB**
 
